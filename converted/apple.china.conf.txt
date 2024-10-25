@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/dejavu.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
+[/devimages-cdn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/devstreaming-cdn.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/download.developer.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
 [/experiments.apple.com/]https://doh.pub/dns-query https://dns.alidns.com/dns-query
